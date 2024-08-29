@@ -7,4 +7,4 @@ add this changes to staging area by using git add
 commit to record the changes
 then checkout to main branch 
 merge branch pritam to main branch
-then push the code to git hub
+then push the code to git hub.
