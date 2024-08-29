@@ -1,0 +1,10 @@
+created repo
+shared ssh key to team
+create text file
+created branch name pritam
+updated this text file 
+add this changes to staging area by using git add
+commit to record the changes
+then checkout to main branch 
+merge branch pritam to main branch
+then push the code to git hub
